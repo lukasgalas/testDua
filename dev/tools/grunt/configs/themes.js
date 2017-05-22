@@ -50,5 +50,15 @@ module.exports = {
             'css/styles'
         ],
         dsl: 'less'
+    },
+    customtheme: {
+        area: 'adminhtml',
+        name: 'Custom/customTheme',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
     }
 };
