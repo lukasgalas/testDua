@@ -52,8 +52,8 @@ module.exports = {
         dsl: 'less'
     },
     customtheme: {
-        area: 'adminhtml',
-        name: 'Custom/customTheme',
+        area: 'frontend',
+        name: 'Custom/custTheme',
         locale: 'en_US',
         files: [
             'css/styles-m',
